@@ -2,7 +2,7 @@
 
 1. Linear Regression Analysis
 
-File: regression-coefficent.ipynb
+File: _regression-coefficent.ipynb_
 
 Focus: Understanding the relationship between multiple independent variables and a target outcome.
 
@@ -10,15 +10,15 @@ Key Highlights: Manual and automated calculation of Regression Coefficients ($b_
 
 2. Supervised Classification Models
    
-File: decisiontree-naivebayes-knn.ipynb
+File: _decisiontree-naivebayes-knn.ipynb_
 
 Focus: Comparison of popular classification algorithms.
 
 Key Highlights: Implementation of Decision Trees (using entropy/information gain), Naive Bayes (probabilistic classification), and K-Nearest Neighbors (KNN) to categorize data based on learned patterns.
 
-4. Clustering Evaluation Metrics
+3. Clustering Evaluation Metrics
 
-File: Silhouette Davies-Bouldin Calinski-Harabasz ARI MI.ipynb
+File: _Silhouette Davies-Bouldin Calinski-Harabasz ARI MI.ipynb_
 
 Focus: Measuring the quality and consistency of unsupervised learning clusters.
 
